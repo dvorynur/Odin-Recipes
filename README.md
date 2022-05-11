@@ -1,3 +1,2 @@
 # odin-recipes
-Hello
-
+Odin-Recipes project using only HTML
